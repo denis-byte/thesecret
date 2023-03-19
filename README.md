@@ -1,3 +1,3 @@
 # thesecret
-The Secret Game Update Server
+The Secret Game Update Server.
 THIS IS UNRELEASED PRODUCT. AFTER RELEASE ALL SOURCE CODE WILL BE UPLOADED HERE.
